@@ -1,0 +1,7 @@
+allure-pytest==2.13.5
+pytest==8.3.2
+pytest-html==4.1.1
+requests==2.32.3
+selenium==4.23.1
+WooCommerce==3.0.0
+Faker==26.2.0
